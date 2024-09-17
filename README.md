@@ -93,6 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Himanshu - [@yourtwitter](https://twitter.com/itz_vermajii) - vermajihimanshu2004@gmail.com
+Himanshu - [@itz_vermajii](https://twitter.com/itz_vermajii) - vermajihimanshu2004@gmail.com
 
 Project Link: [https://github.com/TechisHeaven/solana_seats](https://github.com/TechisHeaven/solana_seats)
